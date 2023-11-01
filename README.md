@@ -1,1 +1,1 @@
-# Madumitha
+print("hello world")
